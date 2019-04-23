@@ -8,3 +8,8 @@ Accelerometer detects the sudden change in the axes of vehicle and GSM modules e
 Download and install ARDUINO IDE here:
 
 https://www.microsoft.com/en-in/p/arduino-ide/9nblggh4rsd8?ocid=badge&rtc=1&activetab=pivot:overviewtab
+
+
+## Hardware Architecture
+
+![Architecture Layout](https://github.com/SourravPR/ADS/blob/master/CircuitDiagram.PNG)
